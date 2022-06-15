@@ -1,0 +1,39 @@
+.l2{
+    background-color: aqua;
+}
+.b1{
+    z-index: 1;
+    width: 92%;
+    height: 10%;
+    right: 0;
+    top: 10%;
+}
+.b2{
+    z-index: 1;
+    width: 92%;
+    height: 10%;
+    left: 0;
+    top: 30%;
+}
+.b3{
+    z-index: 1;
+    width: 45%;
+    height: 10%;
+    left: 0;
+    top: 50%;
+}
+.b4{
+    z-index: 1;
+    width: 45%;
+    height: 10%;
+    right: 0;
+    top: 50%;
+}
+.b5{
+    z-index: 0;
+    width: 10%;
+    height: 32%;
+    left: 45%;
+    top: 40%;
+    background-color: red;
+}

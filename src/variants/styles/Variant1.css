@@ -1,0 +1,32 @@
+
+
+.b1 {
+    top: 10%;
+    width: 94%;
+    height: 10%;
+}
+
+.b2 {
+    top: 20%;
+    right:0;
+    width: 6%;
+    height: 20%;
+}
+.b3{
+    top: 21%;
+    width: 6%;
+    left: 45%;
+    height: 50%;
+}
+.b4{
+    top:72%;
+    height: 10%;
+    width: 50%;
+    right: 0;
+}
+.l1{
+    background-color: red;
+}
+
+
+

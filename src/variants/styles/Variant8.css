@@ -1,0 +1,77 @@
+.l8{
+    background-color: #9f9f9f;
+}
+.l8b1{
+    z-index: 1;
+    width: 20%;
+    height: 10%;
+    right: 0;
+    top: 10%;
+}
+.l8b2{
+    z-index: 1;
+    width: 70%;
+    height: 20%;
+    left: 0;
+    top: 0;
+}
+.l8b3{
+    z-index: 1;
+    width: 50%;
+    height: 10%;
+    right: 0;
+    top: 30%;
+}
+.l8b4{
+    z-index: 1;
+    width: 20%;
+    height: 30%;
+    left: 10%;
+    top: 20%;
+}
+.l8b5{
+    z-index: 0;
+    width: 10%;
+    height: 50%;
+    right:50%;
+    top: 30%;
+    background-color: red;
+}
+.l8b6{
+    z-index: 0;
+    width: 30%;
+    height: 10%;
+    right:40%;
+    top: 20%;
+    background-color: red;
+}
+.l8b7{
+    z-index: 1;
+    width: 40%;
+    height: 30%;
+    left: 0;
+    top: 50%;
+}
+.l8b9{
+    z-index: 1;
+    width: 40%;
+    height: 10%;
+    right: 0;
+    top: 50%;
+}
+.l8b10{
+    z-index: 0;
+    width: 40%;
+    height: 40%;
+    right:10%;
+    bottom: 0;
+    background-color: red;
+}
+.l8b8{
+    z-index: 0;
+    width: 10%;
+    height: 20%;
+    left:30%;
+    bottom: 0;
+    background-color: red;
+}

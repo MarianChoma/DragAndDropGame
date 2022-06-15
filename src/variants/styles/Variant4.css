@@ -1,0 +1,55 @@
+.l4{
+    background-color: rgba(151,12,51,0.69);
+}
+.l4b1{
+    z-index: 0;
+    width: 50%;
+    height: 10%;
+    left: 0;
+    top: 10%;
+    background-color: red;
+}
+.l4b2{
+    z-index: 0;
+    width: 10%;
+    height: 50%;
+    right: 50%;
+    top: 0;
+    background-color: red;
+}
+.l4b3{
+    z-index: 0;
+    width: 50%;
+    height: 20%;
+    right: 0;
+    top: 20%;
+}
+.l4b4{
+    z-index: 0;
+    width: 40%;
+    height: 10%;
+    left: 40%;
+    top: 50%;
+    background-color: red;
+}
+.l4b5{
+    z-index: 0;
+    width: 90%;
+    height: 10%;
+    left: 0;
+    top: 60%;
+}
+.l4b6{
+    z-index: 0;
+    width: 20%;
+    height: 10%;
+    left: 20%;
+    top: 40%;
+}
+.l4b7{
+    z-index: 0;
+    width: 10%;
+    height: 30%;
+    right: 40%;
+    bottom: 10%;
+}

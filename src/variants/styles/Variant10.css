@@ -1,0 +1,73 @@
+.l10b1{
+    z-index: 1;
+    width: 20%;
+    height: 20%;
+    right: 40%;
+    top: 40%;
+}
+.l10b2{
+    z-index: 1;
+    width: 10%;
+    height: 90%;
+    right: 0;
+    top: 10%;
+}
+.l10b3{
+    z-index: 1;
+    width: 10%;
+    height: 90%;
+    left: 0;
+    top: 0;
+}
+.l10b4{
+    z-index: 1;
+    width: 40%;
+    height: 10%;
+    right: 10%;
+    top: 10%;
+}
+.l10b5{
+    z-index: 0;
+    width: 10%;
+    height: 70%;
+    right: 40%;
+    top: 0;
+    background-color: red;
+}
+.l10b6{
+    z-index: 1;
+    width: 10%;
+    height: 50%;
+    right: 20%;
+    bottom: 0;
+}
+.l10b9{
+    z-index: 1;
+    width: 10%;
+    height: 10%;
+    right: 40%;
+    top: 20%;
+}
+.l10b7{
+    z-index: 1;
+    width: 40%;
+    height: 10%;
+    left: 10%;
+    bottom: 10%;
+}
+.l10b8{
+    z-index: 0;
+    width: 40%;
+    height: 10%;
+    left: 10%;
+    top: 40%;
+    background-color: red;
+}
+.l10b10{
+    z-index: 0;
+    width: 40%;
+    height: 10%;
+    left: 10%;
+    top: 10%;
+    background-color: red;
+}

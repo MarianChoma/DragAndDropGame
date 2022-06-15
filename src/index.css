@@ -1,0 +1,68 @@
+html{
+  margin:0;
+  padding: 0;
+}
+body {
+  background: linear-gradient(to left, #304352,#d7d2cc);
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.box{
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 27px auto auto;
+  height: 80%;
+  border-radius: 8px;
+  border-color: black;
+  border-width: 3px;
+  border-style: solid;
+  width: calc((80%/16)*9);
+}
+.player {
+  position: absolute;
+  border-radius: 3px;
+  width: 5%;
+  height: 5%;
+  top: 0;
+  right: 0;
+  background-color: yellow;
+}
+.block {
+  text-align: center;
+  position: absolute;
+  background-color: black;
+}
+.finish {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 6px;
+  background-color: green;
+  position: absolute;
+  bottom: 0;
+  left: 3px;
+}
+@media only screen and (max-width: 1024px) {
+  .box, .tooltip{
+    width: 80% !important;
+    height: 70% !important;
+  }
+}
+button{
+  border-radius: 4px;
+  height: 40px;
+  background-color: #2D4059;
+  color: #FFB400;
+  min-width: 80px;
+  width: 25%;
+}

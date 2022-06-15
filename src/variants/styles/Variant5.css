@@ -1,0 +1,61 @@
+.l5{
+background-color: rgba(59,0,151,0.69);
+}
+.l5b1{
+    z-index: 1;
+    width: 20%;
+    height: 20%;
+    left: 0;
+    top: 10%;
+}
+.l5b2{
+    z-index: 1;
+    width: 20%;
+    height: 30%;
+    left: 30%;
+    top: 20%;
+}
+.l5b3{
+    z-index: 1;
+    width: 20%;
+    height: 20%;
+    left: 70%;
+    top: 10%;
+}
+.l5b4{
+    z-index: 1;
+    width: 20%;
+    height: 20%;
+    right: 0;
+    top: 40%;
+}
+.l5b5{
+    z-index: 0;
+    width: 10%;
+    height: 30%;
+    left: 50%;
+    top: 0;
+    background-color: red;
+}
+.l5b6{
+    z-index: 1;
+    width: 80%;
+    height: 10%;
+    right: 10%;
+    top: 50%;
+}
+.l5b7{
+    z-index: 0;
+    width: 30%;
+    height: 10%;
+    left: 0;
+    top: 40%;
+    background-color: red;
+}
+.l5b8{
+    z-index: 1;
+    width: 80%;
+    height: 50%;
+    right: 0;
+    bottom: 0;
+}
