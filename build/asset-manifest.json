@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/~xchoma/finalneZadanie/static/css/main.c05343b2.css",
+    "main.js": "/~xchoma/finalneZadanie/static/js/main.00811441.js",
+    "static/js/377.d7d4bc67.chunk.js": "/~xchoma/finalneZadanie/static/js/377.d7d4bc67.chunk.js",
+    "service-worker.js": "/~xchoma/finalneZadanie/service-worker.js",
+    "index.html": "/~xchoma/finalneZadanie/index.html",
+    "main.c05343b2.css.map": "/~xchoma/finalneZadanie/static/css/main.c05343b2.css.map",
+    "main.00811441.js.map": "/~xchoma/finalneZadanie/static/js/main.00811441.js.map",
+    "377.d7d4bc67.chunk.js.map": "/~xchoma/finalneZadanie/static/js/377.d7d4bc67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c05343b2.css",
+    "static/js/main.00811441.js"
+  ]
+}
